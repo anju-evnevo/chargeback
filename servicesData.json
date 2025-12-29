@@ -1,0 +1,122 @@
+
+{
+  "paramount-plus": {
+    "name": "Paramount+",
+    "category": "Streaming Services",
+    "avgTime": "5-10 minutes",
+    "difficulty": "Easy",
+    "price": "$11.99/month",
+    "answeredQuestions": 1823,
+    "headline": "I want to cancel my Paramount plus subscription. I signed up for a free trial; for more than 3 days, but they want to bill me",
+    "conversation": [
+      { "type": "customer", "text": "I want to cancel my Paramount plus subscription" },
+      { "type": "assistant", "text": "I understand you want to cancel your Paramount Plus subscription. Can you tell me if you subscribed directly through their website or through another service like Apple or Amazon?" },
+      { "type": "customer", "text": "It was a free trial, so would that have been through their website?" },
+      { "type": "assistant", "text": "It's possible you signed up through their website, but sometimes free trials are also offered through other platforms. Do you remember receiving any confirmation emails or messages about your subscription? That might indicate where the subscription was set up." },
+      { "type": "customer", "text": "I don't" },
+      { "type": "assistant", "text": "That's okay. Can you check which payment method or account might have been linked to the subscription? This could help identify where the subscription was set up." },
+      { "type": "customer", "text": "I am being billed Roku and also Paramount+" },
+      { "type": "assistant", "text": "Thank you for that information. It sounds like your subscription might be managed through Roku. Have you accessed any other services through Roku, or is it primarily for Paramount Plus?" },
+      { "type": "customer", "text": "Fir Paramount+, Will Roku be canceled also" },
+      { "type": "assistant", "text": "To clarify, are you asking if canceling your Paramount Plus subscription will also cancel your Roku account, or are you looking to cancel both separately?" },
+      { "type": "customer", "text": "start with Paramount+, what does the What does Roku get me?" },
+      { "type": "assistant", "text": "OK. Thanks for that info. And, how would you like to connect with the Technician - phone call or online chat? Under the circumstances, I recommend a phone call." },
+      { "type": "customer", "text": "yes please" }
+    ],
+    "answers": [{"expert": "TechPro Sarah", "specialty": "Streaming & Subscriptions", "answeredCount": "2,847 satisfied customers"}],
+    "relatedQuestions": [
+      "How do I cancel Paramount Plus if I subscribed through Amazon?",
+      "Can I get a refund from Paramount Plus after canceling?",
+      "How to cancel Paramount Plus on Roku?",
+      "Does Paramount Plus have a cancellation fee?",
+      "How long does it take to process a Paramount Plus refund?"
+    ],
+    "steps": []
+  },
+  "netflix": {
+    "name": "Netflix",
+    "category": "Streaming Services",
+    "avgTime": "3-5 minutes",
+    "difficulty": "Very Easy",
+    "price": "$15.49/month",
+    "answeredQuestions": 3198,
+    "headline": "How do I cancel my Netflix subscription and will I get a refund?",
+    "conversation": [
+      { "type": "customer", "text": "How do I cancel my Netflix subscription?" },
+      { "type": "assistant", "text": "I can help you cancel Netflix. First, can you tell me if you subscribed directly through Netflix.com or through a third party like Apple, Google, or your TV provider?" },
+      { "type": "customer", "text": "I think directly through Netflix" },
+      { "type": "assistant", "text": "Great! In that case, you'll need to go to Netflix.com and log into your account. Can you access a computer or web browser right now?" },
+      { "type": "customer", "text": "Yes I'm on my computer" },
+      { "type": "assistant", "text": "Perfect! Once you're logged in, click on your profile icon in the top right, then select 'Account'. Under the Membership & Billing section, you'll see a 'Cancel Membership' button. Would you like me to guide you through what happens after you click that?" },
+      { "type": "customer", "text": "Will I get a refund if I cancel now?" },
+      { "type": "assistant", "text": "Unfortunately, Netflix does not provide refunds for partial billing periods. However, you'll keep full access until the end of your current billing cycle. So if you paid for this month, you can keep watching until the month ends." },
+      { "type": "customer", "text": "That makes sense, thank you" }
+    ],
+    "relatedQuestions": [
+      "How to cancel Netflix on Roku?",
+      "Can I pause my Netflix subscription instead of canceling?",
+      "How to cancel Netflix through Apple?",
+      "Will Netflix delete my account after I cancel?"
+    ],
+    "answers": [{"expert": "StreamExpert101", "specialty": "Streaming Platforms", "answeredCount": "4,521 satisfied customers"}],
+    "steps": []
+  },
+  "spotify": {
+    "name": "Spotify Premium",
+    "category": "Music Streaming",
+    "avgTime": "4-7 minutes",
+    "difficulty": "Easy",
+    "price": "$10.99/month",
+    "answeredQuestions": 2134,
+    "headline": "I accidentally subscribed to Spotify Premium, how do I cancel and get my money back?",
+    "conversation": [
+      { "type": "customer", "text": "I accidentally subscribed to Spotify Premium" },
+      { "type": "assistant", "text": "I'm sorry to hear about the accidental subscription. I can help you cancel it. Can you tell me if you subscribed through the Spotify website, iPhone, or Android?" },
+      { "type": "customer", "text": "I think it was on my iPhone" },
+      { "type": "assistant", "text": "Okay, if you subscribed through iPhone, you'll need to cancel through your Apple subscriptions. Go to Settings → Your Name → Subscriptions → Spotify. Have you been charged already?" },
+      { "type": "customer", "text": "Yes, they charged me $10.99 this morning" },
+      { "type": "assistant", "text": "Since it just happened this morning, you have a good chance of getting a refund. After you cancel through Apple, you should also contact Spotify support to request a refund for the accidental charge." },
+      { "type": "customer", "text": "How do I contact Spotify support?" },
+      { "type": "assistant", "text": "Go to spotify.com/support and click on 'Payment' then select 'I was charged but didn't mean to upgrade'. Explain it was accidental and that you canceled immediately. They're usually understanding about these situations." },
+      { "type": "customer", "text": "Okay I'll try that, thanks!" }
+    ],
+    "relatedQuestions": [
+      "How to cancel Spotify Premium on iPhone?",
+      "Can I get a refund from Spotify after one day?",
+      "How to cancel Spotify Family plan?",
+      "Does Spotify charge a cancellation fee?",
+      "How to downgrade from Spotify Premium to free?"
+    ],
+    "answers": [{"expert": "MusicTechGuru", "specialty": "Music Streaming Services", "answeredCount": "3,156 satisfied customers"}],
+    "steps": []
+  },
+  "disney-plus": {
+    "name": "Disney+",
+    "category": "Streaming Services",
+    "avgTime": "5-8 minutes",
+    "difficulty": "Easy",
+    "price": "$13.99/month",
+    "answeredQuestions": 1891,
+    "headline": "Need help canceling Disney Plus subscription before next billing cycle",
+    "conversation": [
+      { "type": "customer", "text": "I need to cancel Disney Plus before my next bill" },
+      { "type": "assistant", "text": "I can help you cancel before your next billing date. First, can you tell me when your next billing date is and how you subscribed to Disney+?" },
+      { "type": "customer", "text": "My billing is in 3 days. I think I subscribed through the Disney+ website" },
+      { "type": "assistant", "text": "Okay, three days gives you plenty of time. You'll need to log into disneyplus.com, click your profile icon, go to Account, and look for the Cancel Subscription option under your subscription details." },
+      { "type": "customer", "text": "Will I lose access immediately?" },
+      { "type": "assistant", "text": "No! You'll keep access until your current billing period ends, so you can still watch everything until the billing date in 3 days. You just won't be charged again after that." },
+      { "type": "customer", "text": "What if I subscribed through Roku? I see charges from both" },
+      { "type": "assistant", "text": "If you're being charged by Roku, then you subscribed through Roku and need to cancel through your Roku account, not Disney+. Check your Roku account settings under Manage Subscriptions." },
+      { "type": "customer", "text": "Got it, I'll check Roku first" }
+    ],
+    "relatedQuestions": [
+      "How to cancel Disney Plus on Roku?",
+      "Can I cancel Disney Plus and get a refund?",
+      "How to cancel Disney Bundle subscription?",
+      "What happens to my downloads when I cancel Disney+?",
+      "Can I pause my Disney Plus subscription?"
+    ],
+    "answers": [{"expert": "DisneyExpert_Marcus", "specialty": "Disney+ & Streaming", "answeredCount": "2,643 satisfied customers"}],
+    "steps": []
+  }
+}
